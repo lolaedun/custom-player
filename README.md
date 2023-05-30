@@ -16,4 +16,6 @@ This is a group project and together we're hoping to achieve the following custo
 - sketchpad to draw your own design onto the advert
 
 Wireframe Designs
-![wireframe designs](/public/CFG%20-%20Browser.jpg)
+
+![wireframe designs](https://github.com/lolaedun/custom-player/blob/996816ab07203dc3ed347ba924f70db4e7cc9181/CFG%20-%20Browser.jpg)
+
