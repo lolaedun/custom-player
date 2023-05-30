@@ -18,3 +18,4 @@ This is a group project and together we're hoping to achieve the following custo
 
 ### Wireframe Designs
 ![wireframe designs](/public/CFG%20-%20Browser.jpg)
+
